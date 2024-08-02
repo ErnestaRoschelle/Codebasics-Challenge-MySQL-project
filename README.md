@@ -10,7 +10,7 @@ However, the management noticed that they do not get enough insights to make qui
 
 Task:  
 
-1.   Solve 10 ad hoc requests for which the business needs insights.
+1.   Solve 10 ad hoc requests for which the business needs insights.  [https://github.com/ErnestaRoschelle/Codebasics-Challenge-MySQL-project/blob/main/ad-hoc-requests.pdf]
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 
