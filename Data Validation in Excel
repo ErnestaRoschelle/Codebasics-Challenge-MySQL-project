@@ -1,2 +1,0 @@
-
-=UNIQUE(FILTER(dim_customer[market],(dim_customer[customer]="Atliq Exclusive")*(dim_customer[region]="APAC")))
